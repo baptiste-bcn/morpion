@@ -35,7 +35,7 @@ Le Morpion Solitaire est un jeu à un seul joueur qui se joue traditionnellement
    - Option pour interdire de prolonger une ligne existante.
 
 ## Évaluation du Projet
-Nous avons obtenu la note de 13.50/20 lors de ce projet.
+Nous avons obtenu la note de 14/20 lors de ce projet.
 
 
 ---
