@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MORPION </string>
+    <string name="start_game">JOUER</string>
+    <string name="options">Options</string>
+    <string name="return_button">Retour</string>
+    <string-array name="cross_size_options">
+        <item>Grande</item>
+        <item>Petite</item>
+    </string-array>
+</resources>
